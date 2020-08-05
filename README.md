@@ -37,5 +37,7 @@ sample data for players :
 '50', '2'
 '65', '1'
 
-
+I worked on this task with 2 approaches:
+The first is based on calculating the score for each player sum(score)
+the second is based on winnings number count (wining)
 
